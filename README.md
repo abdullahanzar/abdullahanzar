@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm your friendly full stack developer.<br>I have worked on HTML, CSS, Vanilla JS, React JS, Node JS and Express JS.<br>I also dibble in databases including SQL and MongoDB. <br><br>
+I'm your friendly full stack developer.<br>I work on the MERN stack.<br>I also dibble in databases including SQL and MongoDB. Currently learning to flutter and I love to play with algorithms!<br><br>
 
 
 ## 🌐 Socials:
