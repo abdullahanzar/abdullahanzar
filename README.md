@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning full stack web development.<br>I have worked on HTML, CSS, Vanilla JS, React JS, Node JS and Express JS.<br>Looking forward to learn SQL and MongoDB. <br><br>
+I'm currently learning full stack web development.<br>I have worked on HTML, CSS, Vanilla JS, React JS, Node JS and Express JS.<br>I also dibble in databases including SQL and MongoDB. <br><br>
 
 
 ## 🌐 Socials:
