@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm your friendly full stack developer.<br>I work on the MERN stack.<br>I also dibble in databases including SQL and MongoDB. Currently learning to flutter and I love to play with algorithms!<br><br>
+I'm your friendly full stack developer.<br>I work on the MERN stack.<br>I also dibble in databases including SQL and MongoDB. Lately, I have been falling in love with Supabase! Currently learning to flutter and I love to play with algorithms!<br><br>
 
 
 ## 🌐 Socials:
